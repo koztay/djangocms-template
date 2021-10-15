@@ -76,5 +76,5 @@ django-csp
 
 sentry-sdk
 django-robots
-
+captcha
 
