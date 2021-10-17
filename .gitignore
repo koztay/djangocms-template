@@ -1,2 +1,3 @@
 .divio
 *.pyc
+frontend/node_modules/*
